@@ -1,3 +1,8 @@
+## Spawning TTY Shells – A Practical Guide for Ethical Hackers
+
+<img src="https://raw.githubusercontent.com/CracksoftShlok/tty-shell-fixing/refs/heads/main/ttyshell.png" alt="Alt text" style="width: 100%; height: auto;" />
+
+
 In penetration testing and ethical hacking, gaining a **reverse shell** or **command execution** is only half the battle. Often, you’ll be dropped into a limited shell environment – one that lacks full terminal capabilities (like arrow keys, tab completion, job control, etc.). This is where **spawning a proper TTY shell** becomes critical.
 
 In this blog, we'll explore different ways to spawn TTY shells using various languages and tools, explain **why** you'd want to do this, and walk through **how** it works.
